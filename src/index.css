@@ -77,11 +77,18 @@ button:focus-visible {
 }
 
 .Container{
-  width: 100vw;
+  display: flex;
+  flex-direction: column;
   min-height: 100vh;
+  width: 100%;
   transition: 0.5s;
+}
+.content-wrap{
+  flex: 1;
 }
 
 .Container.dark{
   background-color: black;
+  background-color: yellow;
 }
+

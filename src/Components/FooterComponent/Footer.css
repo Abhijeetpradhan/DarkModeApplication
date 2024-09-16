@@ -1,0 +1,22 @@
+.mainFooter{
+    background-color: black;
+    color: white;
+    padding-top: 50px;
+    bottom: 0;
+    width: 100%;
+}
+.containerFooter{
+    display: flex;
+    justify-content: space-around;
+}
+.last-footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    position: relative;
+    padding: 20px 0;
+}
+
+  
+
+
