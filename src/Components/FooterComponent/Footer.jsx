@@ -6,7 +6,7 @@ const Footer = () => {
     <div className="mainFooter">
       <div className="containerFooter">
         <div className="columns-unstyled">
-          <h2>James Consulting</h2>
+          <h2>Pradhan Consulting</h2>
           <h4>500 Terry Francine Street,</h4>
           <h4>San Francisco, CA 94158</h4>
           <h4>Mail: info@mysite.com</h4>

@@ -78,3 +78,18 @@
     color: black;
 }
 
+.Navbar ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+.dark .Navbar ul li a{
+    color: white;
+}
+.dark .Navbar ul li a.active{
+    color: red
+}
+
+.Navbar ul li .active{
+    color: red;
+}
